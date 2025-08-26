@@ -1,7 +1,7 @@
 title: Математически магьосници
 description: Прототип на образователна настолна игра за 30–45 мин, 1–4 играчи.
 url: "https://math-mages.github.io"
-baseurl: ""   
+baseurl: "/Math-Mages"   
 
 theme: minima
 plugins:
