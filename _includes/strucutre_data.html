@@ -1,0 +1,12 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BoardGame",
+  "name": "{{ site.title | escape }}",
+  "description": "{{ site.description | strip_newlines | escape }}",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "numberOfPlayers": "1-4",
+  "typicalAgeRange": "10+",
+  "image": "{{ '/assets/img/box.jpg' | absolute_url }}"
+}
+</script>

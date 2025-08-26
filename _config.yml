@@ -1,0 +1,12 @@
+title: Математически магьосници
+description: Образователна настолна игра
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+minima:
+  skin: auto
+defaults:
+  - scope: {path: ""}
+    values: {layout: page}

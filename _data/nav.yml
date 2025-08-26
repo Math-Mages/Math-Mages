@@ -1,0 +1,4 @@
+- { title: Home, url: / }
+- { title: How to Play, url: /how-to-play/ }
+- { title: Blog, url: /blog/ }
+- { title: Contact, url: /contact/ }
